@@ -1,0 +1,4 @@
+settings = {
+    "prefix": ">",
+    "MTE0MjQ3MTQ0OTE2OTM3NTI1Mw.GnI9ev.eodjWnwtGPLnLBMrdaPYPRhKXL5BSDTiNdLt9g": "THE TOKEN WILL BE STORED HERE"
+}
