@@ -23,7 +23,7 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTE0MjQ3MTQ0OTE2OTM3NTI1Mw.GnI9ev.eodjWnwtGPLnLBMrdaPYPRhKXL5BSDTiNdLt9g")
+client.run("token")
 
 gen_pass(10)
 
